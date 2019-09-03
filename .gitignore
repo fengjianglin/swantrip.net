@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+_config.yml
+package.json
+scaffolds/
+source
+themes/
+package-lock.json
+hexo
